@@ -1,0 +1,26 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #fff;
+    background-image: url('jess-bailey-UHqfUTDmdC4-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+section{
+
+    background: transparent;
+    color: black;
+    width:800px ;
+    
+    border: 2px solid black;
+    border-radius: 40px;
+    box-shadow: 0 0 10px grey;
+    backdrop-filter: blur(10px);
+}
+
